@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichHig
-- 👀 I’m interested in Mobile app development.
-- 🌱 I’m currently learning Swift.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning HTML, CSS & Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
