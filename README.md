@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my frontend skills<br>👯 I’m looking to collaborate on any project.<br>🤝 I’m looking for help with any ReactJS projects.<br>🌱 I’m currently learning NextJS and Solidity.<br>
+🔭 I’m currently working on improving my product building skills<br>👯 I’m looking to collaborate on any project.<br>🤝 I’m looking for help to push the boundarires of AI projects.<br>🌱 I’m currently learning NextJS and Solidity.<br>
 
 
 # 💻 Tech Stack:
